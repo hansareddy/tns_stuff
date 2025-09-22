@@ -3,7 +3,7 @@ package tns_package;
 public class Typecast {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		int x=55;
 		float y=x;
 		
